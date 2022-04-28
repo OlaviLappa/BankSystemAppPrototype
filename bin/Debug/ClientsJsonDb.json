@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Login": "fisoul",
+    "Password": "DRWPEJIKOTUH",
+    "Name": "Владислав",
+    "Surname": "Ярвинен",
+    "FathersName": "Туомасович",
+    "SerialPass": "3340",
+    "NumberPass": "377342",
+    "PhoneNumber": "80518851",
+    "AuthorizeStatus": 0
+  },
+  {
+    "Id": 2,
+    "Login": "tysfis",
+    "Password": "UUZWPUSLYTT",
+    "Name": "Владислав",
+    "Surname": "Ковальский",
+    "FathersName": "Федорович",
+    "SerialPass": "1320",
+    "NumberPass": "477351",
+    "PhoneNumber": "61352136",
+    "AuthorizeStatus": 0
+  },
+  {
+    "Id": 3,
+    "Login": "resoulfis",
+    "Password": "LUUHHSITLOHG",
+    "Name": "Марина",
+    "Surname": "Ярвинен",
+    "FathersName": "Туомасович",
+    "SerialPass": "3433",
+    "NumberPass": "767588",
+    "PhoneNumber": "03658851",
+    "AuthorizeStatus": 0
+  },
+  {
+    "Id": 4,
+    "Login": "tyskim",
+    "Password": "JSHHDJEAHRTL",
+    "Name": "Маргарита",
+    "Surname": "Ярвинен",
+    "FathersName": "Федорович",
+    "SerialPass": "5407",
+    "NumberPass": "824616",
+    "PhoneNumber": "83028348",
+    "AuthorizeStatus": 0
+  },
+  {
+    "Id": 5,
+    "Login": "figfisfig",
+    "Password": "IDJTJY",
+    "Name": "Андрей",
+    "Surname": "Ярвинен",
+    "FathersName": "Туомасович",
+    "SerialPass": "0873",
+    "NumberPass": "320400",
+    "PhoneNumber": "30888340",
+    "AuthorizeStatus": 1
+  },
+  {
+    "Id": 6,
+    "Login": "fisfisfigfisfis",
+    "Password": "YKLGFIJWURZF",
+    "Name": "Владислав",
+    "Surname": "Швец",
+    "FathersName": "Андреевич",
+    "SerialPass": "6772",
+    "NumberPass": "273585",
+    "PhoneNumber": "76714802",
+    "AuthorizeStatus": 0
+  },
+  {
+    "Id": 7,
+    "Login": "resfisfis",
+    "Password": "QSJZHLTGPAEPW",
+    "Name": "Маргарита",
+    "Surname": "Швец",
+    "FathersName": "Туомасович",
+    "SerialPass": "0678",
+    "NumberPass": "527166",
+    "PhoneNumber": "23456660",
+    "AuthorizeStatus": 0
+  }
+]

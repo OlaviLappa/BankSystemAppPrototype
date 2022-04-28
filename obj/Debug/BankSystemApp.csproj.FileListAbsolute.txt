@@ -1,0 +1,13 @@
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\bin\Debug\BankSystemApp.exe.config
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\bin\Debug\BankSystemApp.exe
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\bin\Debug\BankSystemApp.pdb
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.Form1.resources
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.Properties.Resources.resources
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.csproj.GenerateResource.cache
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.exe
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.pdb
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.csproj.AssemblyReference.cache
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\obj\Debug\BankSystemApp.ClientsGeneration.resources
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\АДМИН\source\repos\BankSystemApp\BankSystemApp\bin\Debug\Newtonsoft.Json.xml
